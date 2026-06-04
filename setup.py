@@ -11,7 +11,7 @@ assert platform.system() in ('Windows', 'Linux'), "vgamepad is only supported on
 
 
 VIGEMBUS_VERSION = "1.17.333.0"
-VGAMEPAD_VERSION = "0.1.3"
+VGAMEPAD_VERSION = "0.1.4"
 
 
 archstr = platform.machine()
